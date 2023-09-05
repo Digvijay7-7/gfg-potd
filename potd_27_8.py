@@ -20,7 +20,8 @@ class Solution:
     def reverseWord(self, s):
         s = s[::-1]
         return s
-    
+
+
 #{ 
  # Driver Code Starts
 #Initial Template for Python 3
