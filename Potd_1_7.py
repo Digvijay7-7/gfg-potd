@@ -31,7 +31,6 @@ if __name__ == '__main__':
 		ans = ob.setBits(N)
 		print('{} times occur 1'.format(ans))
 
-
 # } Driver Code Ends
 '''
 def setbits(N):     
