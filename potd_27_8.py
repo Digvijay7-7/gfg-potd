@@ -15,12 +15,10 @@ Expected Auxiliary Space: O(1).
 '''
 
 #User function Template for python3
-
 class Solution:
     def reverseWord(self, s):
         s = s[::-1]
         return s
-
 
 #{ 
  # Driver Code Starts
