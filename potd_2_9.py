@@ -156,4 +156,4 @@ if __name__ == '__main__':
         root=buildTree(s)
         ob = Solution()
         res = ob.getCount(root,k)
-        print(res)
+        print(res) 

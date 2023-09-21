@@ -34,4 +34,4 @@ public class potd_4_7 {
         }
         System.out.println(c);
     }
-}
+} 

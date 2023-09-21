@@ -16,7 +16,7 @@ The converted BST will be
    1     3
 
 Example 2:
-
+ 
 Input:
           1
        /    \
@@ -77,7 +77,6 @@ class Solution:
             inorder_bst(root.right, arr)
         inorder_bst(root, arr)
         return root
-
 
 #{ 
  # Driver Code Starts
