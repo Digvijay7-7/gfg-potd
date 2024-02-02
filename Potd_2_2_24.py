@@ -31,6 +31,8 @@ Constraints:
 1 ≤ |s| ≤ 10
 '''
 
+#User function template for Python
+
 class Solution:
     def atoi(self, s):
         # Check if the string is empty
@@ -69,3 +71,16 @@ class Solution:
 
         # Apply sign to the result
         return result * sign
+
+
+#{ 
+ # Driver Code Starts
+#Initial template for Python
+
+if __name__=='__main__':
+    t=int(input())
+    for i in range(t):
+        string = input().strip();
+        ob=Solution()
+        print(ob.atoi(string))
+# } Driver Code Ends
